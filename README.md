@@ -3,7 +3,7 @@
 * 라즈베리파이와 Sense hat을 이용하여 LED에 원하는 색의 빛을 내게 하는 프로그램을 작성한다.
 
 ## 소스 코드
-```
+```.c
 #include<stdio.h>
 #include<stdlib.h>
 #include<sys/types.h>
@@ -112,13 +112,13 @@ Sense Hat의 LED는 8*8 총 64개로 구성되어있다
 ```
 
 ## 동작 사진
-![1](https://user-images.githubusercontent.com/28796089/100021692-3c950980-2e25-11eb-9953-9af866943e99.jpg)  
-![2](https://user-images.githubusercontent.com/28796089/100021697-3dc63680-2e25-11eb-9feb-f2684b143f4c.jpg)
+![1](https://user-images.githubusercontent.com/28796089/100021975-baf1ab80-2e25-11eb-85c5-47ab85ff3587.jpg)  
+![2](https://user-images.githubusercontent.com/28796089/100021978-bc22d880-2e25-11eb-9977-84cd1021b5cd.jpg)  
 ```
 빨간 색으로 채워지고 흰 색으로 켜지는 모습을 볼 수 있다.
 ```
-![3](https://user-images.githubusercontent.com/28796089/100021760-546c8d80-2e25-11eb-8732-fe17556c05ea.jpg)  
-![4](https://user-images.githubusercontent.com/28796089/100021763-559dba80-2e25-11eb-9286-e44581899194.jpg)
+![3](https://user-images.githubusercontent.com/28796089/100021980-bc22d880-2e25-11eb-9f15-99b09aca9071.jpg)  
+![4](https://user-images.githubusercontent.com/28796089/100021984-bcbb6f00-2e25-11eb-83f5-23ea78b6da60.jpg)  
 ```
 다른 색으로도 동작시켜보았다.
 
